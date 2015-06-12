@@ -1,0 +1,6 @@
+cd c:\Users\Shree\Desktop\marketplacedesign 
+
+git pull 
+git add . 
+git commit -m "vendor side folder "
+git push 
